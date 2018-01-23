@@ -1,5 +1,8 @@
 Base on this video https://www.youtube.com/watch?v=IPBSB1HLNLo&feature=youtu.be
 
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197
+http://forums.fast.ai/t/wiki-lesson-1/9398
+
 blabla until 6:21
 Can use cresle 
 
